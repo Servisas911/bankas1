@@ -1,0 +1,24 @@
+[
+    {
+      "vardas": "Kazys",
+      "pavardė": "Armonika",
+      "sąskaitos_numeris": "LT000000000000000001",
+      "asmens_kodas": "12345",
+      "likutis": 4990
+    },
+    {
+      "vardas": "Kazyte",
+      "pavardė": "Armonika",
+      "sąskaitos_numeris": "LT000000000000000002",
+      "asmens_kodas": "1234",
+      "likutis": 2990
+    },
+    {
+      "vardas": "Kaziukai",
+      "pavardė": "Armonikos",
+      "sąskaitos_numeris": "LT000000000000000003",
+      "asmens_kodas": "123",
+      "likutis": 1990
+    }
+  ]
+  
